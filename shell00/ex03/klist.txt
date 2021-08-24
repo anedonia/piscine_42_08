@@ -1,0 +1,5 @@
+Credentials cache: API:7442EEA0-7301-48C4-A8FC-A1F11DB5F053
+        Principal: ldevy@42.FR
+
+  Issued                Expires               Principal
+Aug  2 12:36:47 2021  Aug  9 12:36:47 2021  krbtgt/42.FR@42.FR
